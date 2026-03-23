@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/render?type=waving&color=7c5dfa&height=200&section=header&text=Amiel%20Jake&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=7c5dfa&height=200&section=header&text=Amiel%20Jake&fontSize=80&animation=fadeIn" width="100%" />
+</p>
 
 # Hi there, I'm Amiel! 👋
 ### Full Stack Developer | UI/UX Enthusiast | OJT @ Philippine Red Cross
